@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "الشركة", "icon": "","link":"/about" },
+  { "id": 2, "name": "المنتجات الاساسية", "icon": "","link":"/product" },
+  { "id": 3, "name": "الاكسسوارات", "icon": "","link":"/accessory" },
+  { "id": 4, "name": "الاتصال", "icon": "","link":"/contact" }
+]

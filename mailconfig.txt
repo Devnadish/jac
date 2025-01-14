@@ -1,0 +1,23 @@
+
+    //   Email.send({
+    //     Host : "smtp.elasticemail.com",
+    //     Username : "saeed@jacforkliftksa.com",
+    //     Password : "3B0D3B5EADDC403B01AD71E8F4552DB39360",
+    //     To : 'nadish@nadish.online',
+    //     From : "w2.nadish@gmail.com",
+    //     Subject : "khalid is the subject",
+    //     Body : "khalid this body"
+    // }).then(
+    //   message => alert(message)
+    // );
+
+
+
+When Contact Pruning is enabled, contacts are automatically blocked after a specified number of emails are sent with 0 opens.
+You can change the status back to "active".
+a) Turn Contact Pruning off.
+https://elasticemail.com/account#/settings/new/tracking-and-pruning
+b) From Contacts click on All Contacts and then on Status. Tick the Stale box and on the new display click on the Email blue down arrow and choose Select All.
+Click on the More Options drop down menu and select Change Status, just follow the directions.
+Switch the contact’s status to “active”.
+c) Finally turn on contact pruning on again. The contact should remain with active status.

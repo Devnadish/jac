@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Company", "icon": "","link":"/about" },
+  { "id": 2, "name": "Main products", "icon": "","link":"/product" },
+  { "id": 3, "name": "Accessories", "icon": "","link":"/accessory" },
+  { "id": 4, "name": "Contact", "icon": "","link":"/contact" }
+]

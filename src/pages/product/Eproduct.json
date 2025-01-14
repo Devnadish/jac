@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "Image": "/assets/product/E1/1.jpg",
+    "name": "(1-1.8T Four Wheel Forklift, H Series)",
+    "directory": "E1",
+    "imageCount": "4",
+    "Edescription":"The electric forklift of H series employs asymmetric drive axle, to leave enough space for the installation of the travel motor. So, the motor replacement and maintenance can be completed easily, without troublesome dismantling of the gear box and drive axle.",
+    "Adescription":"إن الرافعة الشوكية الكهربائية من السلسلة H تستخدم محور تدوير غير متماثل، لإبقاء مساحة كافية لتركيب محرك القيادة. لهذا فإن عملية تغيير وصيانة المحرك يمكن أن تتم بسهولة، من دون الحاجة لفك صندوق التروس ومحور التحريك. ولقد حصل التصميم على براءة إختراع وطنية.  إن محور القيادة للرافعة ذات أربع عجلات "
+  },
+   {
+    "id": 2,
+    "Image": "/assets/product/E2/1.jpg",
+    "name": "(1-1.8T Four Wheel Forklift, J Series)",
+    "directory": "E2",
+    "imageCount": "3",
+    "Edescription":"The imported CURTIS controller is installed with our patented technology, to achieve optimal heat dissipation effect.",
+    "Adescription":"إن الرافعة الشوكية الكهربائية من سلسلة J تأتي مع لوحة قيادة نوع مغلق، مما يخلق بيئة عمل منظمة ومرتبة للشخص المشغل. إن التصميم النوع المدمج للضوء الخلفي يزيد من المظهر الجميل للرافعة الشوكية ذات أربع عجلات "
+  },
+   {
+    "id": 3,
+    "Image": "/assets/product/E3/1.jpg",
+    "name":"(1-1.8T Four Wheel Forklift, S Series)",
+    "directory": "E3",
+    "imageCount": "1",
+    "Edescription":"The electric forklifts of this series use lithium battery as power source. It takes the advantages of low energy consumption and long working time. These electric forklifts has power regeneration function to prolong the working time",
+    "Adescription":"تُستخدم في هذه السلسلة من الرافعات الشوكية الكهربائية بطاريات الليثيوم كمصدر للطاقة، كما تتسم الرافعة باستهلاك منخفض للطاقة في زمن عمل أطول، كما تعمل أيضاً على توليد الطاقة من أجل إطالة زمن العمل لفترة أطول."
+  },
+   {
+    "id": 4,
+    "Image": "/assets/product/E4/1.jpg",
+    "name": "(1.6-2T 3-Wheel Counterbalance Battery Forklift)",
+    "directory": "E4",
+    "imageCount": "1",
+    "Edescription":"The lifting down cushion can reduce the impact to improve stability and safety. Idling control system can prevent accidents caused by sudden start of the truck.",
+    "Adescription":"يمكن أن تقلل وسادة الرفع من الصدمات لتحسين الاستقرار والسلامة. نظام التحكم في التباطؤ يمنع الحوادث الناجمة عن التشغيل المفاجئ للعربة."
+  },
+   {
+    "id": 5,
+    "Image": "/assets/product/E5/1.jpg",
+    "name": "(2-2.5T Four Wheel Forklift, J Series)",
+    "directory": "E5",
+    "imageCount": "5",
+    "Edescription":"The imported CURTIS controller for the warehouse equipment is installed according to our patented technology to achieve outstanding heat dissipation effect.",
+    "Adescription":"بما إنها حائزة على براءة إختراع وطنية، فإن محور التحريك نوع اللوحة القابل للدوران   يجعل عملية الصيانة للمحرك وصندوق التروس أكثر سهولة.  "
+  },
+   {
+    "id": 6,
+    "Image": "/assets/product/E6/1.jpg",
+    "name":"(2-2.5T Four Wheel Forklift,S Series)",
+    "directory": "E6",
+    "imageCount": "4",
+    "Edescription":"These electric forklifts feature high transmission efficiency and low noise due to their integrated drive axle and gearbox structure.",
+    "Adescription":"تتميز هذه النوعية من الرافعات الشوكية الكهربائية بكفاءة عالية، كما أنها لا تصدر صوت ضجيج نظراً لتميزها بهيكل مندمج لمحور الدفع وصندوق التروس."
+  },
+   {
+    "id": 7,
+    "Image": "/assets/product/E7/1.jpg",
+    "name": "(2-3T Four Wheel Forklift, JE Series)",
+    "directory": "E7",
+    "imageCount": "1",
+    "Edescription":"Continuous working time – 8-10 hours Energy regeneration function – Regenerative energy can be fed back to the battery during braking, slow down and steering, so that the battery can be used for a longer period of time",
+    "Adescription":"وقت العمل المستمر ــ 8 إلى 10 ساعات     وظيفة إعادة توليد الطاقة الكهربائية ــ الطاقة المتجددة قابلة للاسترجاع إلى البطارية عند الفرملة، خفض السرعة "
+  },
+   {
+    "id": 8,
+    "Image": "/assets/product/E8/1.jpg",
+    "name":"(3-3.5T Four Wheel Forklift, J Series)",
+    "directory": "E8",
+    "imageCount": "4",
+    "Edescription":"The J series electric forklift comes with enclosed type dashboard. The simple design of the cab creates comfortable working environment for the operator.",
+    "Adescription":"إن الرافعة الشوكية الكهربائية من سلسلة J تأتي مع لوحة قيادة نوع مغلق، مما يخلق بيئة عمل منظمة ومرتبة للشخص المشغل. إن التصميم النوع المدمج للضوء الخلفي يزيد من المظهر الجميل للرافعة الشوكية ذات أربع عجلات3-3.5T."
+    
+  },
+   {
+    "id": 9,
+    "Image": "/assets/product/E9/1.jpg",
+    "name": "(3-5T Four Wheel Forklift, HE Series)",
+    "directory": "E9",
+    "imageCount": "2",
+    "Edescription":"Neutral gear safety system- Prevent the accidents that caused by accidential starting.",
+    "Adescription":". جسم الرافعة القوي يضمن المتانة العالية."
+    
+  },
+   {
+    "id": 10,
+    "Image": "/assets/product/E10/1.jpg",
+    "name": "(4-6T Four Wheel Forklift, S Series)",
+    "directory": "E10",
+    "imageCount": "4",
+    "Edescription":"EngEquipped with wet-type multi-disk brake, the electric forklifts of this series have excellent braking effect to ensure the work safetylis",
+    "Adescription":"تم تجهيز الرافعة بمكابح متعددة الأقراص من النوع الرطب، حيث تتميز بأداء فرامل ممتازوذلك لضمان الأمن والسلامة."
+  }
+]
+
+
+

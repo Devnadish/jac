@@ -1,0 +1,27 @@
+{
+"D1": { "id": 1, "aboutPic": "/assets/product/D1/1.jpg", "name":"(1-1.8T Forklift Truck, H Series)"},
+"D2": { "id": 2, "aboutPic": "/assets/product/D2/1.jpg", "name":"(2-2.5T Forklift Truck, H Series)"},
+"D3": { "id": 3, "aboutPic": "/assets/product/D3/1.jpg", "name":"(2-2.5T Forklift Truck, J Series)"},
+"D4": { "id": 4, "aboutPic": "/assets/product/D4/1.jpg", "name":"(3-3.5T Forklift Truck, H Series)" },
+"D5": { "id": 5, "aboutPic": "/assets/product/D5/1.jpg", "name":"(3-3.5T Forklift Truck, J Series)" },
+"D6": { "id": 6, "aboutPic": "/assets/product/D6/1.jpg", "name":"(4-4.5T Forklift Truck, H Series)" },
+"D7": { "id": 7, "aboutPic": "/assets/product/D7/1.jpg", "name":"(5-7T Forklift Truck, H Series)" },
+"D8": { "id": 8, "aboutPic": "/assets/product/D8/1.jpg", "name":"(5-12T Internal Combustion Counterweight Forklift Truck, J Series)" },
+"D9": { "id": 9, "aboutPic": "/assets/product/D9/1.jpg", "name":"(8-10T Forklift Truck, H Series)" },
+"D10": { "id": 10, "aboutPic": "/assets/product/D10/1.jpg" , "name":"(16T Forklift Truck)"},
+"E1": { "id": 1, "aboutPic": "/assets/product/E1/1.jpg", "name":"(1-1.8T Four Wheel Forklift, H Series)" },
+"E2": { "id": 2, "aboutPic": "/assets/product/E2/1.jpg", "name":"(1-1.8T Four Wheel Forklift, J Series)" },
+"E3": { "id": 3, "aboutPic": "/assets/product/E3/1.jpg", "name":"(1-1.8T Four Wheel Forklift, S Series)" },
+"E4": { "id": 4, "aboutPic": "/assets/product/E4/1.jpg", "name":"(1.6-2T 3-Wheel Counterbalance Battery Forklift)" },
+"E5": { "id": 5, "aboutPic": "/assets/product/E5/1.jpg", "name":"(2-2.5T Four Wheel Forklift, J Series)" },
+"E6": { "id": 6, "aboutPic": "/assets/product/E6/1.jpg", "name":"(2-2.5T Four Wheel Forklift,S Series)" },
+"E7": { "id": 7, "aboutPic": "/assets/product/E7/1.jpg", "name":"(2-3T Four Wheel Forklift, JE Series)" },
+"E8": { "id": 8, "aboutPic": "/assets/product/E8/1.jpg", "name":"(3-3.5T Four Wheel Forklift, J Series)" },
+"E9": { "id": 9, "aboutPic": "/assets/product/E9/1.jpg", "name":"(3-5T Four Wheel Forklift, HE Series)" },
+"E10": { "id": 10, "aboutPic": "/assets/product/E10/1.jpg", "name":"(4-6T Four Wheel Forklift, S Series)" },
+"A1": { "id": 1, "aboutPic": "/assets/product/Accessory/13.png", "name":"Clamps" },
+"A2": { "id": 2, "aboutPic": "/assets/product/Accessory/2.png", "name":"Fork Posmoners" },
+"A3": { "id": 3, "aboutPic": "/assets/product/Accessory/10.png", "name":"Olecranon Drum Clamps" }
+}
+
+

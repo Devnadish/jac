@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "Image": "/assets/product/D1/1.jpg",
+    "name": "(1-1.8T Forklift Truck, H Series)",
+    "directory": "D1",
+    "imageCount": "6",
+    "Edescription":"The combined type taillight for the warehouse equipment is installed at the top of the overhead guard. Apart from the nice appearance, the eye-catching design makes the forklift truck quite safe for use at night",
+    "Adescription":"إن الرافعة الشوكية الديزل 1-1.8 طن من سلسلة H مبنية وفقاً لبيئات العمل. فإنه يمكن تعديل موقع المقعد وزاوية عجلة القيادة بحرية للحصول على مساحة عمل كبيرة. إن التصميم الخاص يخلق بيئة عمل مريحة ويقلل من تعب الشخص المشغل."
+  },
+   {
+    "id": 2,
+    "Image": "/assets/product/D2/1.jpg",
+    "name": "(2-2.5T Forklift Truck, H Series)",
+    "directory": "D2",
+    "imageCount": "7",
+    "Edescription":"The H series diesel forklift comes with the load capacity from 2 tons to 2.5 tons. It is equipped with first class drive system and high quality gearbox.",
+    "Adescription":" إن الرافعة الشوكية التي تعمل بالديزل من سلسلة H تأتي مع قابلية حمل من 2 طن إلى 2.5 طن. فهي مزودة بنظام تحريك من الدرجة الأولى وصندوق تروس ذو جودة عالية. "
+  },
+   {
+    "id": 3,
+    "Image": "/assets/product/D3/1.jpg",
+    "name": "(2-2.5T Forklift Truck, J Series)",
+    "directory": "D3",
+    "imageCount": "3",
+    "Edescription":"The instrument panel of the diesel powered lift truck is installed at right hand side. The simple design makes it easier for the operator to read the parameters.",
+    "Adescription":" لقد تم تصميم الرافعة الشوكية التي تعمل بالديزل من سلسلة J بهيكل مطوق لتخفيض الضجيج وتحسين الراحة في خلال عملية التشغيل. إن التصميم المطور حديثاً لموازنة الوزن يجعل الشاحنة الشوكية لنقل البضائع هذه جذابة للغاية."
+  },
+   {
+    "id": 4,
+    "Image": "/assets/product/D4/1.jpg",
+    "name": "(3-3.5T Forklift Truck, H Series)",
+    "directory": "D4",
+    "imageCount": "7",
+    "Edescription":"The air intake system of the diesel forklift is installed at high level to prevent the dust from entering the engine, so the lifespan of the engine is extended, accordingly.",
+    "Adescription":"إن الرافعة الشوكية التي تعمل بالديزل من سلسلة H تأتي مع قابلية حمل من 2 طن إلى 2.5 طن. فهي مزودة بنظام تحريك من الدرجة الأولى وصندوق تروس ذو جودة عالية. بفضل عجلة القيادة والمقعد القابل للتعديل، فإن مساحة العمل يمكن أن تكبر. فإن البيئة المريحة سوف تعطية المشغل مزاج جيد."
+  },
+   {
+    "id": 5,
+    "Image": "/assets/product/D5/1.jpg",
+    "name": "(3-3.5T Forklift Truck, J Series)",
+    "directory": "D5",
+    "imageCount": "3",
+    "Edescription":"The instrument panel of the diesel powered lift truck is installed at right hand side. The simple design makes it easier for the operator to read the parameters.",
+    "Adescription":"لقد تم هندسة الرافعة الشوكية التي تعمل بالديزل من سلسلة J بهيكل مطوق لتخفيض الضجيج وتحسين الراحة في خلال عملية التشغيل. إن التصميم المطور حديثاً لموازنة الوزن يجعل الشاحنة الشوكية لنقل البضائع هذه جذابة للغاية."
+  },
+   {
+    "id": 6,
+    "Image": "/assets/product/D6/1.jpg",
+    "name": "(4-4.5T Forklift Truck, H Series)",
+    "directory": "D6",
+    "imageCount": "7",
+    "Edescription":"The air intake system installed at high level, as well as the two air filters of the warehouse equipment, offers full protection to the engine of the diesel forklift.",
+    "Adescription":"لقد تم تركيب نظام إدخال الهواء بمستوى عالي، وكذلك أثنين فلترات هواء لسيارة المخازن هذه، وهذا يقدم حماية كاملة لماكينة الرافعة الشوكية التي تعمل بالديزل."
+  },
+   {
+    "id": 7,
+    "Image": "/assets/product/D7/1.jpg",
+    "name": "(5-7T Forklift Truck, H Series)",
+    "directory": "D7",
+    "imageCount": "4",
+    "Edescription":"The hyperbolic design for the main reducer of drive axle helps realize smooth meshing. Apart from the low noise, this design extends the lifespan of the drive axle, as well.",
+    "Adescription":" إن النظام التشغيل الهيدروليكي للرافعة الشوكية التي تعمل بالديزل من سلسلة H تقدم تأثير قيادة ثابت وفعال. إن التصميم القطعي للمخفض الأساسي لمحور القيادة يساعد على تحقيق الربط السلس. إلى جانب ميزة الضجيج المنخفض، فإن هذا التصميم أيضاً يساعد على تمديد عمر محور القيادة."
+  },
+   {
+    "id": 8,
+    "Image": "/assets/product/D8/1.jpg",
+    "name": "(5-12T Internal Combustion Counterweight Forklift Truck, J Series)",
+    "directory": "D8",
+    "imageCount": "4",
+    "Edescription":"Electro-hydraulic gearbox features easy operation. The CPCD120 is integrated with multi-plate clutch for quick speed control, enabling stable operation.",
+    "Adescription":"تتميز علبة التروس الكهروهيدروليكية بسهولة التشغيل. الرفعة الشوكية CPCD120 تدمج مع القابض متعدد الألواح للتحكم السريع في السرعة، مما يتيح التشغيل المستقر."
+  },
+   {
+    "id": 9,
+    "Image": "/assets/product/D9/1.jpg",
+    "name": "(8-10T Forklift Truck, H Series)",
+    "directory": "D9",
+    "imageCount": "4",
+    "Edescription":"The hyperbolic design for the main reducer of drive axle helps realize smooth meshing. Apart from the low noise, this design extends the lifespan of the drive axle, as well.",
+    "Adescription":"إن النظام التشغيل الهيدروليكي للرافعة الشوكية التي تعمل بالديزل من سلسلة H تقدم تأثير قيادة ثابت وفعال.  إن التصميم القطعي للمخفض الأساسي لمحور القيادة يساعد على تحقيق الربط السلس. إلى جانب ميزة الضجيج المنخفض، فإن هذا التصميم أيضاً يساعد على تمديد عمر محور القيادة."
+    
+  },
+   {
+    "id": 10,
+    "Image": "/assets/product/D10/1.jpg",
+    "name": "(16T Forklift Truck)",
+    "directory": "D10",
+    "imageCount": "1",
+    "Edescription":"Under the control of remote pilot hand lever, the hydraulic system of the material handling equipment helps achieve easy and convenient operation.",
+    "Adescription":"تحت سيطرة الذراع اليدوي بالتوجيه عن بعد، فإن النظام الهيدروليكي لمعدات نقل وحمل المواد يساعد على تحقيق عملية مريحة وسهلة. إن النظام الهيدروليكي لشاحنة الرفع الديزل يتبنى صمام متعدد الإتجاهات مستورد للحصول على سلامة وموثوقية عالية."
+    
+  }
+]
+
+
+
